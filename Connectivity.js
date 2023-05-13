@@ -1,5 +1,3 @@
-Connectivity_Test = script-name=Connectivity_Test,update-interval=1
-
 Glarity SummaryGlarity Summary
 //由本群重庆佬提供，key和小白脸大佬修改完善。修改了一下
 //由整点薯条大佬优化
